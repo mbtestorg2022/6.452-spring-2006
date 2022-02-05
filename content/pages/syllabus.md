@@ -53,16 +53,105 @@ Problem Sets, Project, Quizzes
 
 There will be 3 problem sets, one short project, and two quizzes, scheduled as follows:
 
-| SES # | KEY DATES |
-| --- | --- |
-| 5 | Problem set 1 out |
-| 9 |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}} Problem set 2 out {{< br >}}{{< br >}}  |
-| 13 | Quiz 1 |
-| 15 | Problem set 2 due |
-| 17 | Problem set 3 out |
-| 20 |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Project out {{< br >}}{{< br >}}  |
-| 24 | Project due |
-| 26 | Quiz 2 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+Problem set 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Project out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Quiz 1 will be a take-home exam, although we expect students to finish it in around 2 hours. This is part of our effort towards time-pressure-free exams.
 
@@ -71,11 +160,56 @@ Course Grade
 
 The final grade in the course is based upon our best assessment of your understanding of the material during the semester. Roughly, the weights used in grade assignments will be:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Quiz 1 | 35% |
-| Quiz 2 | 35% |
-| Project | 20% |
-| Homework | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 However, other factors such as interaction with the staff and participation in lecture can make a significant difference in the final grade. In general, the process of assigning a final grade involves a lot of discussion among the staff and a careful review of the quizzes and project. Although the focus of the course is obviously learning, not grades, we know the final grade is important to you, and we want you to know that we take the process seriously.
